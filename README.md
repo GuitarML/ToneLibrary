@@ -13,9 +13,9 @@ Note: Each plugin uses a different neural net architecture, and these are not cr
 
 ## Model Training
 Model training is accomplished using the following tools:
-- NeuralPi    [Automated-GuitarAmpModelling](https://github.com/Alec-Wright/Automated-GuitarAmpModelling)
-- SmartAmpPro [SmartAmpPro plugin or Colab script](https://github.com/GuitarML/SmartAmpPro)
-- SmartAmp    [PedalNetRT](https://github.com/GuitarML/PedalNetRT)
+- NeuralPi:    [Automated-GuitarAmpModelling](https://github.com/Alec-Wright/Automated-GuitarAmpModelling)
+- SmartAmpPro: [SmartAmpPro plugin or Colab script](https://github.com/GuitarML/SmartAmpPro)
+- SmartAmp:    [PedalNetRT](https://github.com/GuitarML/PedalNetRT)
 
 ## Neural Net Model Layers
 - NeuralPi    (stateful LSTM -> Dense)
