@@ -9,7 +9,7 @@ The model files are compatible with GuitarML plugins, including:
 - [SmartAmpPro](https://github.com/GuitarML/SmartAmpPro)
 - [SmartAmp](https://github.com/GuitarML/SmartGuitarAmp)
 
-Note: Each plugin uses a different neural net architecture, and are not cross-compatible.
+Note: Each plugin uses a different neural net architecture, and these are not cross-compatible.
 
 ## Model Training
 Model training is accomplished using the following tools:
