@@ -17,7 +17,7 @@ Model training is accomplished using the following tools:
 - SmartAmpPro: [SmartAmpPro plugin or Colab script](https://github.com/GuitarML/SmartAmpPro)
 - SmartAmp:    [PedalNetRT](https://github.com/GuitarML/PedalNetRT)
 
-## Neural Net Model Layers
+## Model Layer Info
 - NeuralPi    (stateful LSTM -> Dense)
 - SmartAmpPro (Conv1D -> Conv1D -> stateless LSTM -> Dense)
 - SmartAmp    (WaveNet)
