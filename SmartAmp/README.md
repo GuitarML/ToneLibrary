@@ -1,1 +1,1 @@
-# SmartAmp Tones
+# SmartPedal and SmartAmp Tones
