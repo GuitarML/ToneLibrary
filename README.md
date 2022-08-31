@@ -7,6 +7,7 @@ The models are linked for download on the [GuitarML Website](https://guitarml.co
 The model files are compatible with GuitarML plugins, including:
 - [NeuralPi](https://github.com/GuitarML/NeuralPi)
 - [SmartAmpPro](https://github.com/GuitarML/SmartAmpPro)
+- [SmartPedal](https://github.com/GuitarML/SmartGuitarPedal)
 - [SmartAmp](https://github.com/GuitarML/SmartGuitarAmp)
 
 Note: Each plugin uses a different neural net architecture, and these are not cross-compatible. Only use the models intended for a specific plugin.
