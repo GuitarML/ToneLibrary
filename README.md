@@ -5,7 +5,7 @@ The models are linked for download on the [GuitarML Website](https://guitarml.co
 
 ## Compatibility
 The model files are compatible with GuitarML plugins, including:
-- Proteus
+- [Proteus](https://github.com/GuitarML/Proteus)
 - [NeuralPi](https://github.com/GuitarML/NeuralPi)
 - [SmartAmpPro](https://github.com/GuitarML/SmartAmpPro)
 - [SmartPedal](https://github.com/GuitarML/SmartGuitarPedal)
